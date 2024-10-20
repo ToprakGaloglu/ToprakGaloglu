@@ -47,4 +47,6 @@
 
 <img src="https://raw.githubusercontent.com/ToprakGaloglu/ToprakGaloglu/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/ToprakGaloglu/ToprakGaloglu/blob/output/github-contribution-grid-snake.gif)
+
 ###
