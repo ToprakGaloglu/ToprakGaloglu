@@ -57,11 +57,14 @@
 
 <br/>
 
-<h2 align="center">⚡ Gify ⚡</h2>
+<h2 align="center">⚡ Thanks for visit ⚡</h2>
 <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg3bHB1OWVsOXo5a21rbmRvdmFvMWVreHo1ZWNoOXhocjgyeTQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14rwlyNFNShZYc/giphy.gif"  />
-<br/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1rOWEydnZyZ3NmMDZnNGh1NTAycXBlajI1eHVmbmtpOGN0MXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pi1HV6hj5Cffy/giphy.gif"  />
-</div>
+  <img align="right" height="225" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1rOWEydnZyZ3NmMDZnNGh1NTAycXBlajI1eHVmbmtpOGN0MXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pi1HV6hj5Cffy/giphy.gif"  />
+
+
+
+<img align="left" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg3bHB1OWVsOXo5a21rbmRvdmFvMWVreHo1ZWNoOXhocjgyeTQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14rwlyNFNShZYc/giphy.gif"  />
+
+
 
 <br/>
