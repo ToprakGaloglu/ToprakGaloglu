@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ToprakGaloglu.ToprakGaloglu&"  />
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Toprak+Galoglu!;" />
@@ -33,7 +36,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ToprakGaloglu/ToprakGaloglu/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ToprakGaloglu/ToprakGaloglu/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
@@ -45,6 +48,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ToprakGaloglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToprakGaloglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=ToprakGaloglu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <br/><br/>
@@ -55,7 +59,6 @@
 
 <h2 align="center">⚡ Gify ⚡</h2>
 <br>
-<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg3bHB1OWVsOXo5a21rbmRvdmFvMWVreHo1ZWNoOXhocjgyeTQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14rwlyNFNShZYc/giphy.gif"  />
 <br/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1rOWEydnZyZ3NmMDZnNGh1NTAycXBlajI1eHVmbmtpOGN0MXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pi1HV6hj5Cffy/giphy.gif"  />
